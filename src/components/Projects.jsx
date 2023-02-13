@@ -36,7 +36,7 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-
+                    {/* grid item 2*/}
                     <div style={{backgroundImage: `url(${instrument})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
@@ -54,7 +54,7 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-                    {/* grid item 2 */}
+                    {/* grid item 3 */}
                     <div style={{backgroundImage: `url(${todo})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
@@ -72,7 +72,7 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-
+                    {/* grid item 4*/}
                     <div style={{backgroundImage: `url(${library})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
@@ -90,13 +90,13 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-                    {/* grid item 3 */}
+                    {/* grid item 5 */}
                     <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Bill Gates portfoolio
+                                Midagi
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
@@ -108,13 +108,13 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-
+                    {/* grid item 6*/}
                     <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Virtuaalne instrument
+                                Midagi
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
@@ -126,13 +126,13 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-                    {/* grid item */}
-                    <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* grid item 7*/}
+                    {/* <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
                         
                         {/* hover fx */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        {/* <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Bill Gates portfoolio
+                                Midagi
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
@@ -143,14 +143,14 @@ const Projects = () => {
                                 </a>
                             </div>
                         </div>
-                    </div>
-
-                    <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    </div> */}
+                    {/* grid item 8*/}
+                    {/* <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
                         
                         {/* hover fx */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        {/* <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Virtuaalne instrument
+                                Midagi
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
@@ -161,7 +161,7 @@ const Projects = () => {
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>
