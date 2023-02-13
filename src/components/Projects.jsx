@@ -66,7 +66,7 @@ const Projects = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/FluffyQuake/tak-21-practitioner">
+                                <a href="https://github.com/FluffyQuake/tak-21-practitioner" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Github</button>
                                 </a>
                             </div>
@@ -84,7 +84,7 @@ const Projects = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/FluffyQuake/php-kaust">
+                                <a href="https://github.com/FluffyQuake/php-kaust" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Github</button>
                                 </a>
                             </div>

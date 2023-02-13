@@ -10,9 +10,9 @@ const Navbar = () => {
 
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 border-b-2 border-pink-600'>
-            <div>
+            <Link to="home" smooth={true} duration={500} >
                 <img src={Logo} alt="Logo image" style={{width: '100px'}} />
-            </div>
+            </Link>
 
             {/* menu */}
                 <ul className='hidden md:flex'>
@@ -82,7 +82,7 @@ const Navbar = () => {
                 <ul>
                     <li className='w-[80px] md:w-[142px] md:pr-[7px] lg:pr-[15px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://www.linkedin.com/in/kaspar-vakkum-8b10b2266" target="_blank">
                             Linkedin <FaLinkedin size={30} />
                         </a>
                     </li>
@@ -94,7 +94,7 @@ const Navbar = () => {
                     </li>
                     <li className='w-[80px] md:w-[142px] md:pr-[7px] lg:pr-[15px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#c71610]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="vakkumkaspar@gmail.com">
                             Email <HiOutlineMail size={30} />
                         </a>
                     </li>
