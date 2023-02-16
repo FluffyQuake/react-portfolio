@@ -3,6 +3,9 @@ import Bill from '../assets/bill.png'
 import library from '../assets/library.png'
 import instrument from '../assets/instrument.png'
 import todo from '../assets/todo.png'
+import pood from '../assets/pood.png'
+import noormeister from '../assets/noormeister.png'
+import ametikool from '../assets/ametikool.png'
 import filler from '../assets/filler.png'
 
 const Projects = () => {
@@ -91,59 +94,59 @@ const Projects = () => {
                         </div>
                     </div>
                     {/* grid item 5 */}
-                    <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${noormeister})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Midagi
+                                Noormeister 2022
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Tallinna-Polutehnikum/nm2022-meeskond8" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Github</button>
                                 </a>
                             </div>
                         </div>
                     </div>
                     {/* grid item 6*/}
-                    <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${pood})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Midagi
+                                Laravel e-pood
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/lebra2/laravel-projekt" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Github</button>
                                 </a>
                             </div>
                         </div>
                     </div>
                     {/* grid item 7*/}
-                    {/* <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
+                    <div style={{backgroundImage: `url(${ametikool})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
-                        {/* <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Midagi
+                                Ametikooli portfoolio
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://fluffyquake.github.io/Tiim4-veebisait/" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/FluffyQuake/Tiim4-veebisait" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Github</button>
                                 </a>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
                     {/* grid item 8*/}
                     {/* <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
                         
