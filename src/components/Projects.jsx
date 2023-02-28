@@ -6,6 +6,7 @@ import todo from '../assets/todo.png'
 import pood from '../assets/pood.png'
 import noormeister from '../assets/noormeister.png'
 import ametikool from '../assets/ametikool.png'
+import blocks from '../assets/blocks.png'
 import filler from '../assets/filler.png'
 
 const Projects = () => {
@@ -81,7 +82,7 @@ const Projects = () => {
                         {/* hover fx */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Local php book list
+                                Local php bookstore
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="/">
@@ -148,7 +149,7 @@ const Projects = () => {
                         </div>
                     </div>
                     {/* grid item 8*/}
-                    <div style={{backgroundImage: `url(${filler})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${blocks})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* hover fx */}
                         <div className='opacity-0 group-hover:opacity-100'>
